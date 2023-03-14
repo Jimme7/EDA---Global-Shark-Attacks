@@ -25,5 +25,8 @@ Para ejecutar el código de Python se requieren las siguientes librerías:
 - seaborn
 - pyplot
 
+### Presentación
+[Enlace a la presentación](https://www.canva.com/design/DAFdK5OzCCU/DDH6gN8VIoKeWhqMmb0r7Q/view?utm_content=DAFdK5OzCCU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ## Autor
 Jimena Alía Guerrero
